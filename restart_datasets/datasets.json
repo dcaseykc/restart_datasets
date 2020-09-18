@@ -221,5 +221,9 @@
   "RhodeIsland": {
     "filename": "RhodeIsland.csv",
     "format": "csv"
+  },
+  "us": {
+    "filename": "us.csv",
+    "format": "csv"
   }
 }

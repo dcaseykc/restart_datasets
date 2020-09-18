@@ -158,5 +158,8 @@
   },
   "RhodeIsland": {
     "description": "OES data for Rhode Island"
+  },
+  "us": {
+    "description": "OES data for US"
   }
 }

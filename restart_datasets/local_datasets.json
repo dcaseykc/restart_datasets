@@ -53,5 +53,6 @@
   "New Jersey": "_data/New Jersey.csv",
   "Washington": "_data/Washington.csv",
   "Missouri": "_data/Missouri.csv",
-  "RhodeIsland": "_data/RhodeIsland.csv"
+  "RhodeIsland": "_data/RhodeIsland.csv",
+  "us": "_data/us.csv"
 }
