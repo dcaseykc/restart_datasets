@@ -1,0 +1,244 @@
+class Georgia(Dataset):
+  name = 'Georgia.csv'
+  _pd_read_kwds = {}
+
+class North Carolina(Dataset):
+  name = 'North Carolina.csv'
+  _pd_read_kwds = {}
+
+class Wyoming(Dataset):
+  name = 'Wyoming.csv'
+  _pd_read_kwds = {}
+
+class New Hampshire(Dataset):
+  name = 'New Hampshire.csv'
+  _pd_read_kwds = {}
+
+class Wisconsin(Dataset):
+  name = 'Wisconsin.csv'
+  _pd_read_kwds = {}
+
+class classes(Dataset):
+  name = 'classes.txt'
+  _pd_read_kwds = {}
+
+class Minnesota(Dataset):
+  name = 'Minnesota.csv'
+  _pd_read_kwds = {}
+
+class Maryland(Dataset):
+  name = 'Maryland.csv'
+  _pd_read_kwds = {}
+
+class Pennsylvania(Dataset):
+  name = 'Pennsylvania.csv'
+  _pd_read_kwds = {}
+
+class Texas(Dataset):
+  name = 'Texas.csv'
+  _pd_read_kwds = {}
+
+class Florida(Dataset):
+  name = 'Florida.csv'
+  _pd_read_kwds = {}
+
+class Michigan(Dataset):
+  name = 'Michigan.csv'
+  _pd_read_kwds = {}
+
+class Hawaii(Dataset):
+  name = 'Hawaii.csv'
+  _pd_read_kwds = {}
+
+class Tennessee(Dataset):
+  name = 'Tennessee.csv'
+  _pd_read_kwds = {}
+
+class District of Columbia(Dataset):
+  name = 'District of Columbia.csv'
+  _pd_read_kwds = {}
+
+class Arkansas(Dataset):
+  name = 'Arkansas.csv'
+  _pd_read_kwds = {}
+
+class Ohio(Dataset):
+  name = 'Ohio.csv'
+  _pd_read_kwds = {}
+
+class Nebraska(Dataset):
+  name = 'Nebraska.csv'
+  _pd_read_kwds = {}
+
+class Montana(Dataset):
+  name = 'Montana.csv'
+  _pd_read_kwds = {}
+
+class Indiana(Dataset):
+  name = 'Indiana.csv'
+  _pd_read_kwds = {}
+
+class (Dataset):
+  name = '.stringer.py.swp'
+  _pd_read_kwds = {}
+
+class South Dakota(Dataset):
+  name = 'South Dakota.csv'
+  _pd_read_kwds = {}
+
+class Mississippi(Dataset):
+  name = 'Mississippi.csv'
+  _pd_read_kwds = {}
+
+class counties(Dataset):
+  name = 'counties.csv'
+  _pd_read_kwds = {}
+
+class Connecticut(Dataset):
+  name = 'Connecticut.csv'
+  _pd_read_kwds = {}
+
+class local_datasets(Dataset):
+  name = 'local_datasets.json'
+  _pd_read_kwds = {}
+
+class Oklahoma(Dataset):
+  name = 'Oklahoma.csv'
+  _pd_read_kwds = {}
+
+class datasets(Dataset):
+  name = 'datasets.json'
+  _pd_read_kwds = {}
+
+class dataset_info(Dataset):
+  name = 'dataset_info.json'
+  _pd_read_kwds = {}
+
+class Colorado(Dataset):
+  name = 'Colorado.csv'
+  _pd_read_kwds = {}
+
+class Maine(Dataset):
+  name = 'Maine.csv'
+  _pd_read_kwds = {}
+
+class South Carolina(Dataset):
+  name = 'South Carolina.csv'
+  _pd_read_kwds = {}
+
+class list1_2020(Dataset):
+  name = 'list1_2020.xls'
+  _pd_read_kwds = {}
+
+class North Dakota(Dataset):
+  name = 'North Dakota.csv'
+  _pd_read_kwds = {}
+
+class Louisiana(Dataset):
+  name = 'Louisiana.csv'
+  _pd_read_kwds = {}
+
+class Utah(Dataset):
+  name = 'Utah.csv'
+  _pd_read_kwds = {}
+
+class Virginia(Dataset):
+  name = 'Virginia.csv'
+  _pd_read_kwds = {}
+
+class co-est2019-alldata(Dataset):
+  name = 'co-est2019-alldata.csv'
+  _pd_read_kwds = {}
+
+class New York(Dataset):
+  name = 'New York.csv'
+  _pd_read_kwds = {}
+
+class New Mexico(Dataset):
+  name = 'New Mexico.csv'
+  _pd_read_kwds = {}
+
+class Delaware(Dataset):
+  name = 'Delaware.csv'
+  _pd_read_kwds = {}
+
+class Kentucky(Dataset):
+  name = 'Kentucky.csv'
+  _pd_read_kwds = {}
+
+class Massachusetts(Dataset):
+  name = 'Massachusetts.csv'
+  _pd_read_kwds = {}
+
+class covid-surge-who(Dataset):
+  name = 'covid-surge-who.xlsx'
+  _pd_read_kwds = {}
+
+class Alabama(Dataset):
+  name = 'Alabama.csv'
+  _pd_read_kwds = {}
+
+class Arizona(Dataset):
+  name = 'Arizona.csv'
+  _pd_read_kwds = {}
+
+class California(Dataset):
+  name = 'California.csv'
+  _pd_read_kwds = {}
+
+class Nevada(Dataset):
+  name = 'Nevada.csv'
+  _pd_read_kwds = {}
+
+class Alaska(Dataset):
+  name = 'Alaska.csv'
+  _pd_read_kwds = {}
+
+class Illinois(Dataset):
+  name = 'Illinois.csv'
+  _pd_read_kwds = {}
+
+class Idaho(Dataset):
+  name = 'Idaho.csv'
+  _pd_read_kwds = {}
+
+class Oregon(Dataset):
+  name = 'Oregon.csv'
+  _pd_read_kwds = {}
+
+class Iowa(Dataset):
+  name = 'Iowa.csv'
+  _pd_read_kwds = {}
+
+class Vermont(Dataset):
+  name = 'Vermont.csv'
+  _pd_read_kwds = {}
+
+class stringer(Dataset):
+  name = 'stringer.py'
+  _pd_read_kwds = {}
+
+class West Virginia(Dataset):
+  name = 'West Virginia.csv'
+  _pd_read_kwds = {}
+
+class Kansas(Dataset):
+  name = 'Kansas.csv'
+  _pd_read_kwds = {}
+
+class New Jersey(Dataset):
+  name = 'New Jersey.csv'
+  _pd_read_kwds = {}
+
+class Washington(Dataset):
+  name = 'Washington.csv'
+  _pd_read_kwds = {}
+
+class Missouri(Dataset):
+  name = 'Missouri.csv'
+  _pd_read_kwds = {}
+
+class Rhode Island(Dataset):
+  name = 'Rhode Island.csv'
+  _pd_read_kwds = {}
+

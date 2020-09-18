@@ -28,45 +28,35 @@ def version(path):
 
 
 setup(
-    name="vega_datasets",
-    version=version("vega_datasets/__init__.py"),
-    description="A Python package for offline access to Vega datasets",
+    name="restart_datasets",
+    version=version("restart_datasets/__init__.py"),
+    description="Python package for offline access to restart datasets",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
-    author="Jake VanderPlas",
-    author_email="jakevdp@gmail.com",
-    maintainer="Jake VanderPlas",
-    maintainer_email="jakevdp@gmail.com",
-    url="http://github.com/altair-viz/vega_datasets",
-    download_url="http://github.com/altair-viz/vega_datasets",
-    license="MIT",
+    author="Restart Partners",
+    author_email="info@restart.us",
+    maintainer="Lucas Hahn",
+    maintainer_email="lucas@restart.us",
+    url="http://github.com/restartus/restart_datasets",
     install_requires=["pandas"],
-    python_requires=">=3.5",
+    python_requires=">=3.8",
     tests_require=["pytest"],
     packages=find_packages(exclude=["tools"]),
     package_data={
-        "vega_datasets": [
+        "restart_datasets": [
             "datasets.json",
             "dataset_info.json",
             "local_datasets.json",
             os.path.join("_data", "*.json"),
             os.path.join("_data", "*.csv"),
             os.path.join("_data", "*.tsv"),
+            os.path.join("_data", "*.xlsx"),
+            os.path.join("_data", "*.xls")
         ]
     },
     classifiers=[
-        "Development Status :: 4 - Beta",
         "Environment :: Console",
         "Intended Audience :: Science/Research",
-        "License :: OSI Approved :: MIT License",
-        "Natural Language :: English",
-        "Programming Language :: Python :: 3.5",
-        "Programming Language :: Python :: 3.6",
-        "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    project_urls={
-        "Bug Reports": "https://github.com/altair-viz/vega_datasets/issues",
-        "Source": "https://github.com/altair-viz/vega_datasets",
-    },
 )
