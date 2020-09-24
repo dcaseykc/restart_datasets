@@ -225,5 +225,9 @@
   "us": {
     "filename": "us.csv",
     "format": "csv"
+  },
+  "epi_ranges": {
+    "filename": "epi_ranges.csv",
+    "format": "csv"
   }
 }
